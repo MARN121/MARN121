@@ -8,6 +8,6 @@
  
 - **Tools/Softwares:**
     - Programming: JetBrains ToolBox (IntelliJ, PyCharm, Android Studio etc.), Visual Studio Code.
-    - Creativtiy: Adobe CC (Photoshop, Illustrator, Animate, Premiere).
+    - Design/Creativtiy: Adobe CC (Photoshop, Illustrator, Animate, Premiere).
     - Drawing/Art: ClipStudio EX, CorelDRAW
     - 3D Design: Blender, MAYA, Daz Studio
