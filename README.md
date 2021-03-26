@@ -6,7 +6,7 @@
 
 ###### Interests: Programming, Artificial intelligence (AI), Human Computer Interaction (HCI), Graphics and Visuals (Animation & Illustration)
  
-- **Tools/Softwares I use and learning:**
+- :computer: **Tools/Softwares I use and learning:**
     - Programming: JetBrains ToolBox (IntelliJ, PyCharm, Android Studio etc.), Visual Studio Code.
     - Design/Creativtiy: Adobe CC (Photoshop, Illustrator, Animate, Premiere).
     - Drawing/Art: ClipStudio EX, CorelDRAW
