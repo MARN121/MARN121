@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi, I'm Asad! 👋
+- :boy: I’m currently studying Computer Science.
+- 🎮 Video games are art of programming; I love playing games and want to develop my own.
+- 🎨 I love to draw and design, I'm a self taught artist and it is one of my hobbies just like programming.
+- 📖 I Love Reading, it expands my knowlegde and makes me think while keeping me curious.
 
-<!--
-**MARN121/MARN121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### Interests: Programming, Artificial intelligence (AI), Human Computer Interaction (HCI), Graphics and Visuals (Animation & Illustration)
+ 
+- **Tools/Softwares:**
+    - Programming: JetBrains ToolBox (IntelliJ, PyCharm, Android Studio etc.), Visual Studio Code.
+    - Creativtiy: Adobe CC (Photoshop, Illustrator, Animate, Premiere).
+    - Drawing/Art: ClipStudio EX, CorelDRAW
+    - 3D Design: Blender, MAYA, Daz Studio
